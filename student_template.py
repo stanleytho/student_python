@@ -44,7 +44,9 @@ class Student:
 if __name__ == "__main__":
     std =Student("John Doe", 21)
     print(f"student name: {std.name}")
+    # display age
     std.display_age()
+    # display scocee 
     std.display_average_score()
 
 
