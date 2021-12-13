@@ -1,0 +1,13 @@
+Clone the repo
+create a new branch "test1"
+creata a new file "test1.txt" has text "this is test1.txt"
+push test1.txt to remote
+Remove line 46-48 on "student_template.py"
+push student_template.py to test1
+
+cherry pick d60740f68b64f22945016a77fd4b4ac7173f518a from develop branch
+push test1 to remote
+
+merge develop to test1 branch
+
+delete the test1
